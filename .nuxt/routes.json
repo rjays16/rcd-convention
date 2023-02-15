@@ -1,0 +1,275 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_5f13cc1f"
+  },
+  {
+    "name": "abstract",
+    "path": "/abstract",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\abstract\\\\index.vue",
+    "chunkName": "pages/abstract/index",
+    "_name": "_78c0c182"
+  },
+  {
+    "name": "abstract-guidelines",
+    "path": "/abstract-guidelines",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\abstract-guidelines.vue",
+    "chunkName": "pages/abstract-guidelines",
+    "_name": "_389826a0"
+  },
+  {
+    "name": "faculty",
+    "path": "/faculty",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\faculty.vue",
+    "chunkName": "pages/faculty",
+    "_name": "_8ad46e14"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_487349fb"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_f0202332"
+  },
+  {
+    "name": "registration",
+    "path": "/registration",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\registration\\\\index.vue",
+    "chunkName": "pages/registration/index",
+    "_name": "_6bd470ea"
+  },
+  {
+    "name": "scientific-program",
+    "path": "/scientific-program",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\scientific-program.vue",
+    "chunkName": "pages/scientific-program",
+    "_name": "_5d2da53e"
+  },
+  {
+    "name": "splash",
+    "path": "/splash",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\splash.vue",
+    "chunkName": "pages/splash",
+    "_name": "_74095c45"
+  },
+  {
+    "name": "type",
+    "path": "/type",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\type.vue",
+    "chunkName": "pages/type",
+    "_name": "_50e11918"
+  },
+  {
+    "name": "virtual-convention-center",
+    "path": "/virtual-convention-center",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/index",
+    "_name": "_6be06ee1"
+  },
+  {
+    "name": "abstract-thank-you",
+    "path": "/abstract/thank-you",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\abstract\\\\thank-you.vue",
+    "chunkName": "pages/abstract/thank-you",
+    "_name": "_4f11726c"
+  },
+  {
+    "name": "profile-attendance",
+    "path": "/profile/attendance",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\profile\\\\attendance.vue",
+    "chunkName": "pages/profile/attendance",
+    "_name": "_a041b9b8"
+  },
+  {
+    "name": "profile-virtual-passport",
+    "path": "/profile/virtual-passport",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\profile\\\\virtual-passport.vue",
+    "chunkName": "pages/profile/virtual-passport",
+    "_name": "_dad28de2"
+  },
+  {
+    "name": "registration-error",
+    "path": "/registration/error",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\registration\\\\error.vue",
+    "chunkName": "pages/registration/error",
+    "_name": "_0ddbe5c1"
+  },
+  {
+    "name": "registration-thank-you",
+    "path": "/registration/thank-you",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\registration\\\\thank-you.vue",
+    "chunkName": "pages/registration/thank-you",
+    "_name": "_42f24bf5"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall",
+    "path": "/virtual-convention-center/exhibit-hall",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/index",
+    "_name": "_7a952714"
+  },
+  {
+    "name": "virtual-convention-center-facade",
+    "path": "/virtual-convention-center/facade",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\facade.vue",
+    "chunkName": "pages/virtual-convention-center/facade",
+    "_name": "_5122c89b"
+  },
+  {
+    "name": "virtual-convention-center-lobby",
+    "path": "/virtual-convention-center/lobby",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/index",
+    "_name": "_00bece06"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-bronze",
+    "path": "/virtual-convention-center/exhibit-hall/bronze",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\bronze\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/bronze/index",
+    "_name": "_114a97ba"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-gold",
+    "path": "/virtual-convention-center/exhibit-hall/gold",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\gold\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/gold/index",
+    "_name": "_0217e7b4"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-platinum",
+    "path": "/virtual-convention-center/exhibit-hall/platinum",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\platinum\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/platinum/index",
+    "_name": "_3f302968"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-silver",
+    "path": "/virtual-convention-center/exhibit-hall/silver",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\silver\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/silver/index",
+    "_name": "_53137467"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures",
+    "path": "/virtual-convention-center/lobby/industry-lectures",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/index",
+    "_name": "_939d6d9a"
+  },
+  {
+    "name": "virtual-convention-center-lobby-plenary",
+    "path": "/virtual-convention-center/lobby/plenary",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\plenary.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/plenary",
+    "_name": "_9bc050e4"
+  },
+  {
+    "name": "virtual-convention-center-lobby-research-hall",
+    "path": "/virtual-convention-center/lobby/research-hall",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\research-hall.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/research-hall",
+    "_name": "_6ba641d6"
+  },
+  {
+    "name": "virtual-convention-center-lobby-symposia",
+    "path": "/virtual-convention-center/lobby/symposia",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\symposia.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/symposia",
+    "_name": "_640eb6ac"
+  },
+  {
+    "name": "virtual-convention-center-lobby-workshops",
+    "path": "/virtual-convention-center/lobby/workshops",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\workshops.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/workshops",
+    "_name": "_93633d12"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures-gold",
+    "path": "/virtual-convention-center/lobby/industry-lectures/gold",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\gold\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/gold/index",
+    "_name": "_1473b693"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures-platinum",
+    "path": "/virtual-convention-center/lobby/industry-lectures/platinum",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\platinum\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/platinum/index",
+    "_name": "_0f3b70c7"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures-sponsor",
+    "path": "/virtual-convention-center/lobby/industry-lectures/sponsor",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\sponsor\\\\index.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/sponsor/index",
+    "_name": "_2be00ae7"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures-gold-slug",
+    "path": "/virtual-convention-center/lobby/industry-lectures/gold/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\gold\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/gold/_slug",
+    "_name": "_12bd154b"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures-platinum-slug",
+    "path": "/virtual-convention-center/lobby/industry-lectures/platinum/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\platinum\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/platinum/_slug",
+    "_name": "_0d84cf7f"
+  },
+  {
+    "name": "virtual-convention-center-lobby-industry-lectures-sponsor-slug",
+    "path": "/virtual-convention-center/lobby/industry-lectures/sponsor/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\lobby\\\\industry-lectures\\\\sponsor\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/lobby/industry-lectures/sponsor/_slug",
+    "_name": "_2a29699f"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-bronze-slug",
+    "path": "/virtual-convention-center/exhibit-hall/bronze/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\bronze\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/bronze/_slug",
+    "_name": "_0f93f672"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-gold-slug",
+    "path": "/virtual-convention-center/exhibit-hall/gold/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\gold\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/gold/_slug",
+    "_name": "_0061466c"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-platinum-slug",
+    "path": "/virtual-convention-center/exhibit-hall/platinum/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\platinum\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/platinum/_slug",
+    "_name": "_3d798820"
+  },
+  {
+    "name": "virtual-convention-center-exhibit-hall-silver-slug",
+    "path": "/virtual-convention-center/exhibit-hall/silver/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\virtual-convention-center\\\\exhibit-hall\\\\silver\\\\_slug.vue",
+    "chunkName": "pages/virtual-convention-center/exhibit-hall/silver/_slug",
+    "_name": "_515cd31f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\rcd2022\\\\rcd-convention\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7ecba6e4"
+  }
+]
