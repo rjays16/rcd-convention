@@ -1,0 +1,50 @@
+{
+  "name": "rcd-convention",
+  "version": "1.2.1",
+  "last_updated": "October 5, 2022 | 4:15 PM",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "node --max-old-space-size=1024 node_modules/nuxt/bin/nuxt.js build",
+    "start": "nuxt start",
+    "generate": "node --max-old-space-size=1024 node_modules/nuxt/bin/nuxt.js generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/gtm": "^2.4.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@pusher/push-notifications-web": "^1.1.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "card-validator": "^8.1.1",
+    "core-js": "^3.9.1",
+    "element-ui": "^2.15.1",
+    "jquery": "^3.6.0",
+    "js-cookie": "^2.2.1",
+    "laravel-echo": "^1.9.0",
+    "nuxt": "^2.15.3",
+    "pdfobject": "^2.2.8",
+    "pusher-js": "^7.0.3",
+    "vue-chat-scroll": "^1.4.0",
+    "vue-click-outside": "^1.1.0",
+    "vue-country-region-select": "^2.0.16",
+    "vue-events": "^3.1.0",
+    "vue-loading-overlay": "^3.4.2",
+    "vue-moment": "^4.1.0",
+    "vue-social-sharing": "^3.0.8",
+    "vue-tel-input": "^4.4.2",
+    "vue2-editor": "^2.10.3",
+    "vuelidate": "^0.7.6",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1"
+  }
+}
